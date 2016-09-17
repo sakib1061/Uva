@@ -3,7 +3,6 @@ using namespace std;
 #define F(n) for(int i=0;i<n;i++)
 struct node{
  int endmark;
-
 node *next[129];
 node()
 {
